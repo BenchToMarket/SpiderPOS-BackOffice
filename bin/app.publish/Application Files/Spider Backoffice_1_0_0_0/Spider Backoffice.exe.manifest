@@ -1,0 +1,85 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<asmv1:assembly manifestVersion="1.0" xsi:schemaLocation="urn:schemas-microsoft-com:asm.v1 assembly.adaptive.xsd" xmlns:asmv3="urn:schemas-microsoft-com:asm.v3" xmlns:dsig="http://www.w3.org/2000/09/xmldsig#" xmlns="urn:schemas-microsoft-com:asm.v2" xmlns:asmv1="urn:schemas-microsoft-com:asm.v1" xmlns:asmv2="urn:schemas-microsoft-com:asm.v2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:co.v1="urn:schemas-microsoft-com:clickonce.v1">
+  <asmv1:assemblyIdentity version="1.0.0.0" name="Spider Backoffice.exe" publicKeyToken="b13683ec9c7cc3dd" language="neutral" processorArchitecture="msil" type="win32" />
+  <application />
+  <entryPoint>
+    <assemblyIdentity name="Spider Backoffice" version="1.0.3034.15330" language="neutral" processorArchitecture="msil" />
+    <commandLine file="Spider Backoffice.exe" parameters="" />
+  </entryPoint>
+  <trustInfo>
+    <security>
+      <applicationRequestMinimum>
+        <PermissionSet class="System.Security.PermissionSet" version="1" Unrestricted="true" ID="Custom" SameSite="site" />
+        <defaultAssemblyRequest permissionSetReference="Custom" />
+      </applicationRequestMinimum>
+      <requestedPrivileges xmlns="urn:schemas-microsoft-com:asm.v3">
+        <!-- UAC Manifest Options
+            If you want to change the Windows User Account Control level replace the 
+            requestedExecutionLevel node with one of the following.
+
+        <requestedExecutionLevel  level="asInvoker" uiAccess="false" />
+        <requestedExecutionLevel  level="requireAdministrator" uiAccess="false" />
+        <requestedExecutionLevel  level="highestAvailable" uiAccess="false" />
+
+            If you want to utilize File and Registry Virtualization for backward 
+            compatibility then delete the requestedExecutionLevel node.
+        -->
+        <requestedExecutionLevel level="asInvoker" uiAccess="false" />
+      </requestedPrivileges>
+    </security>
+  </trustInfo>
+  <dependency>
+    <dependentOS>
+      <osVersionInfo>
+        <os majorVersion="4" minorVersion="10" buildNumber="0" servicePackMajor="0" />
+      </osVersionInfo>
+    </dependentOS>
+  </dependency>
+  <dependency>
+    <dependentAssembly dependencyType="preRequisite" allowDelayedBinding="true">
+      <assemblyIdentity name="Microsoft.Windows.CommonLanguageRuntime" version="2.0.50727.0" />
+    </dependentAssembly>
+  </dependency>
+  <dependency>
+    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="DataSet_Builder.dll" size="2179072">
+      <assemblyIdentity name="DataSet_Builder" version="1.0.3022.34862" language="neutral" />
+      <hash>
+        <dsig:Transforms>
+          <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+        </dsig:Transforms>
+        <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" />
+        <dsig:DigestValue>fOMAOnzCFmGq/J2V7ekZcHWuo5E=</dsig:DigestValue>
+      </hash>
+    </dependentAssembly>
+  </dependency>
+  <dependency>
+    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="Spider Backoffice.exe" size="851968">
+      <assemblyIdentity name="Spider Backoffice" version="1.0.3034.15330" language="neutral" processorArchitecture="msil" />
+      <hash>
+        <dsig:Transforms>
+          <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+        </dsig:Transforms>
+        <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" />
+        <dsig:DigestValue>8VyCc/wgkmDiMBzoAbilw6wMF3w=</dsig:DigestValue>
+      </hash>
+    </dependentAssembly>
+  </dependency>
+  <file name="DataSet1.xsd" size="1646">
+    <hash>
+      <dsig:Transforms>
+        <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+      </dsig:Transforms>
+      <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" />
+      <dsig:DigestValue>6U1j7RB82X3XHVjHsfAYNGK4wiw=</dsig:DigestValue>
+    </hash>
+  </file>
+  <file name="Spider Backoffice.exe.config" size="1154">
+    <hash>
+      <dsig:Transforms>
+        <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+      </dsig:Transforms>
+      <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" />
+      <dsig:DigestValue>DAobY2+ka28DQzJTVOYA+g+S2Ys=</dsig:DigestValue>
+    </hash>
+  </file>
+<publisherIdentity name="CN=EGLOBALMAIN\Eric" issuerKeyHash="f60805a7a6d16061930d14b7cf2f6fa26a094334" /><Signature Id="StrongNameSignature" xmlns="http://www.w3.org/2000/09/xmldsig#"><SignedInfo><CanonicalizationMethod Algorithm="http://www.w3.org/2001/10/xml-exc-c14n#" /><SignatureMethod Algorithm="http://www.w3.org/2000/09/xmldsig#rsa-sha1" /><Reference URI=""><Transforms><Transform Algorithm="http://www.w3.org/2000/09/xmldsig#enveloped-signature" /><Transform Algorithm="http://www.w3.org/2001/10/xml-exc-c14n#" /></Transforms><DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" /><DigestValue>1JaRnBxn+jCiEqRPQr51msA3kN8=</DigestValue></Reference></SignedInfo><SignatureValue>BQ4hsRGSpPiVJGm82ruYIdkGwPmhFhVl8uADeQ1tWwYERKwQlna391TtEJIK1IrpFqpdbNicNlUNjceOTU0d1LXpZygnx7e5OH3tuNCoQcpqQBaIrEp4m7wzbsj7hS+sUwPDQSbglg1dP21VnW00h8/0qYPcrKkEryRlvGSxD3w=</SignatureValue><KeyInfo Id="StrongNameKeyInfo"><KeyValue><RSAKeyValue><Modulus>0z07m+JZ9JjoyFeloYnCNYHdY1yk9isz0grErfBGrKqzQQbRbZVgx0uiahrxCGOIZO7fkv5V7PMFqGMDK+sDKsTjJ9+C4LKI+1CmGLLOSNRL2ZK6M372JgvCZp84dT1sL5z6u+KJjrTtl7S+TrVxYw6W5qIcU1FjDC0LVTV6gSs=</Modulus><Exponent>AQAB</Exponent></RSAKeyValue></KeyValue><msrel:RelData xmlns:msrel="http://schemas.microsoft.com/windows/rel/2005/reldata"><r:license xmlns:r="urn:mpeg:mpeg21:2003:01-REL-R-NS" xmlns:as="http://schemas.microsoft.com/windows/pki/2005/Authenticode"><r:grant><as:ManifestInformation Hash="df9037c09a75be424fa412a230fa671c9c9196d4" Description="" Url=""><as:assemblyIdentity version="1.0.0.0" name="Spider Backoffice.exe" publicKeyToken="b13683ec9c7cc3dd" language="neutral" processorArchitecture="msil" type="win32" /></as:ManifestInformation><as:SignedBy /><as:AuthenticodePublisher><as:X509SubjectName>CN=EGLOBALMAIN\Eric</as:X509SubjectName></as:AuthenticodePublisher></r:grant><r:issuer><Signature Id="AuthenticodeSignature" xmlns="http://www.w3.org/2000/09/xmldsig#"><SignedInfo><CanonicalizationMethod Algorithm="http://www.w3.org/2001/10/xml-exc-c14n#" /><SignatureMethod Algorithm="http://www.w3.org/2000/09/xmldsig#rsa-sha1" /><Reference URI=""><Transforms><Transform Algorithm="http://www.w3.org/2000/09/xmldsig#enveloped-signature" /><Transform Algorithm="http://www.w3.org/2001/10/xml-exc-c14n#" /></Transforms><DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" /><DigestValue>yAT23ShIAX6XF4c2gNQRYWEX23M=</DigestValue></Reference></SignedInfo><SignatureValue>eY2hvJznTsv5iosILyHgDxFLsfIsOEN37Q16kv1g8Xs2wGvBunESTGcpkaDLFs0tBREblbQTmNwzKHX0KXONgwr99WjxmfPSHiu419iDKlj/psd1HStSBdjGumU5K2JzcKPnd/DOnN+Fq2vZ+XbRgllI8uJmpgqhPH02w04S21o=</SignatureValue><KeyInfo><KeyValue><RSAKeyValue><Modulus>0z07m+JZ9JjoyFeloYnCNYHdY1yk9isz0grErfBGrKqzQQbRbZVgx0uiahrxCGOIZO7fkv5V7PMFqGMDK+sDKsTjJ9+C4LKI+1CmGLLOSNRL2ZK6M372JgvCZp84dT1sL5z6u+KJjrTtl7S+TrVxYw6W5qIcU1FjDC0LVTV6gSs=</Modulus><Exponent>AQAB</Exponent></RSAKeyValue></KeyValue><X509Data><X509Certificate>MIIB0TCCAT6gAwIBAgIQjhJx8joh/LBBnnD4jZW+sjAJBgUrDgMCHQUAMCsxKTAnBgNVBAMeIABFAEcATABPAEIAQQBMAE0AQQBJAE4AXABFAHIAaQBjMB4XDTA4MDQyMjEzMTcxMVoXDTA5MDQyMjE5MTcxMVowKzEpMCcGA1UEAx4gAEUARwBMAE8AQgBBAEwATQBBAEkATgBcAEUAcgBpAGMwgZ8wDQYJKoZIhvcNAQEBBQADgY0AMIGJAoGBANM9O5viWfSY6MhXpaGJwjWB3WNcpPYrM9IKxK3wRqyqs0EG0W2VYMdLomoa8QhjiGTu35L+VezzBahjAyvrAyrE4yffguCyiPtQphiyzkjUS9mSujN+9iYLwmafOHU9bC+c+rviiY607Ze0vk61cWMOluaiHFNRYwwtC1U1eoErAgMBAAEwCQYFKw4DAh0FAAOBgQASSpifommyCI+W8GDDmgpEgBQhP7VyUtOrkAdwUr2s71mKtpP0hZ4OaiLG8QnjHLayVHXXU9X2MJgvHVw+sBKxtlew75e7Y4heO3LvmGIO8Sg6PEsOOxFMtcfi95KcscUTmGwFSHbK/mSACvtygH6hxnPxYk9rC2myroMzSITTvA==</X509Certificate></X509Data></KeyInfo></Signature></r:issuer></r:license></msrel:RelData></KeyInfo></Signature></asmv1:assembly>

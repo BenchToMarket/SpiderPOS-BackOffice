@@ -1,0 +1,38 @@
+C:\DataFiles\Visual Studio 2008\Tahsc_server\bin\Spider Backoffice.exe.config
+C:\DataFiles\Visual Studio 2008\Tahsc_server\bin\Spider Backoffice.exe.manifest
+C:\DataFiles\Visual Studio 2008\Tahsc_server\bin\Spider Backoffice.application
+C:\DataFiles\Visual Studio 2008\Tahsc_server\bin\Spider Backoffice.exe
+C:\DataFiles\Visual Studio 2008\Tahsc_server\bin\Spider Backoffice.xml
+C:\DataFiles\Visual Studio 2008\Tahsc_server\bin\DataSet_Builder.dll
+C:\DataFiles\Visual Studio 2008\Tahsc_server\bin\DataSet_Builder.pdb
+C:\DataFiles\Visual Studio 2008\Tahsc_server\obj\Release\ResolveAssemblyReference.cache
+C:\DataFiles\Visual Studio 2008\Tahsc_server\obj\Release\Tahsc_server.Administration.resources
+C:\DataFiles\Visual Studio 2008\Tahsc_server\obj\Release\Tahsc_server.ButtonColor_UC.resources
+C:\DataFiles\Visual Studio 2008\Tahsc_server\obj\Release\Tahsc_server.CustomCheckBox.resources
+C:\DataFiles\Visual Studio 2008\Tahsc_server\obj\Release\Tahsc_server.DrinkButton.resources
+C:\DataFiles\Visual Studio 2008\Tahsc_server\obj\Release\Tahsc_server.FoodOrderPanel.resources
+C:\DataFiles\Visual Studio 2008\Tahsc_server\obj\Release\Tahsc_server.FoodPanelControl.resources
+C:\DataFiles\Visual Studio 2008\Tahsc_server\obj\Release\Tahsc_server.OrderButton.resources
+C:\DataFiles\Visual Studio 2008\Tahsc_server\obj\Release\Tahsc_server.PromoBSGS.resources
+C:\DataFiles\Visual Studio 2008\Tahsc_server\obj\Release\Tahsc_server.PromoCategoryBox.resources
+C:\DataFiles\Visual Studio 2008\Tahsc_server\obj\Release\Tahsc_server.PromoCombo.resources
+C:\DataFiles\Visual Studio 2008\Tahsc_server\obj\Release\Tahsc_server.PromoCoupon.resources
+C:\DataFiles\Visual Studio 2008\Tahsc_server\obj\Release\Tahsc_server.SetupEmploy.resources
+C:\DataFiles\Visual Studio 2008\Tahsc_server\obj\Release\Tahsc_server.SetupMenu.resources
+C:\DataFiles\Visual Studio 2008\Tahsc_server\obj\Release\Tahsc_server.SetupPayment.resources
+C:\DataFiles\Visual Studio 2008\Tahsc_server\obj\Release\Tahsc_server.SetupRawMaterials.resources
+C:\DataFiles\Visual Studio 2008\Tahsc_server\obj\Release\Tahsc_server.SetupTerminals.resources
+C:\DataFiles\Visual Studio 2008\Tahsc_server\obj\Release\Tahsc_server.TableInfo_UC.resources
+C:\DataFiles\Visual Studio 2008\Tahsc_server\obj\Release\Tahsc_server.TerminalGroup_UC.resources
+C:\DataFiles\Visual Studio 2008\Tahsc_server\obj\Release\Tahsc_server.TerminalInfo_UC.resources
+C:\DataFiles\Visual Studio 2008\Tahsc_server\obj\Release\Tahsc_server.Terminal_UC.resources
+C:\DataFiles\Visual Studio 2008\Tahsc_server\obj\Release\Tahsc_server.UpdateButtons222.resources
+C:\DataFiles\Visual Studio 2008\Tahsc_server\obj\Release\Tahsc_server.WallInfo_UC.resources
+C:\DataFiles\Visual Studio 2008\Tahsc_server\obj\Release\Tahsc_server.vbproj.GenerateResource.Cache
+C:\DataFiles\Visual Studio 2008\Tahsc_server\obj\Release\Spider Backoffice.TrustInfo.xml
+C:\DataFiles\Visual Studio 2008\Tahsc_server\obj\Release\Spider Backoffice.exe.manifest
+C:\DataFiles\Visual Studio 2008\Tahsc_server\obj\Release\Spider Backoffice.application
+C:\DataFiles\Visual Studio 2008\Tahsc_server\obj\Release\Spider Backoffice.exe
+C:\DataFiles\Visual Studio 2008\Tahsc_server\obj\Release\Spider Backoffice.xml
+C:\DataFiles\Visual Studio 2008\Tahsc_server\bin\DataSet_Builder.xml
+C:\DataFiles\Visual Studio 2008\Tahsc_server\obj\Release\Tahsc_server.Exit_UC.resources

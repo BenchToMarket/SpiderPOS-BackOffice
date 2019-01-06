@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type='text/xsl' href='_UpgradeReport_Files/UpgradeReport.xslt'?><UpgradeLog>
+<Properties><Property Name="Solution" Value="Tahsc_server">
+</Property><Property Name="Solution File" Value="C:\DataFiles\Visual Studio 2008\Tahsc_server\Tahsc_server.sln">
+</Property><Property Name="Date" Value="Thursday, April 10, 2008">
+</Property><Property Name="Time" Value="8:58 AM">
+</Property></Properties><Event ErrorLevel="0" Project="Tahsc_server" Source="Tahsc_server.vbproj" Description="Project converted successfully">
+</Event><Event ErrorLevel="3" Project="Tahsc_server" Source="Tahsc_server.vbproj" Description="Converted">
+</Event><Event ErrorLevel="0" Project="DataSet_Builder" Source="..\DataSet_Builder\DataSet_Builder.vbproj" Description="The project file does not require conversion.">
+</Event><Event ErrorLevel="3" Project="DataSet_Builder" Source="..\DataSet_Builder\DataSet_Builder.vbproj" Description="No Conversion Required">
+</Event><Event ErrorLevel="0" Project="" Source="Tahsc_server.sln" Description="Solution converted successfully">
+</Event><Event ErrorLevel="3" Project="" Source="Tahsc_server.sln" Description="Converted">
+</Event><Event ErrorLevel="0" Project="Tahsc_server" Source="Tahsc_server.vbproj" Description="Scan complete: Upgrade not required for project files.">
+</Event></UpgradeLog>
